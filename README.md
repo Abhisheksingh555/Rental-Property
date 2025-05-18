@@ -37,5 +37,5 @@
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/rental-property.git
+   git clone : https://github.com/Abhisheksingh555/Rental-Property
    cd rental-property
