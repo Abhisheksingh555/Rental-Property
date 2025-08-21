@@ -100,7 +100,7 @@ The application follows a modern **monorepo architecture** with three distinct, 
 
 ## 🔗 Live Demo & Source Code
 
-- 🌍 **Live Project**: [BuildEstate Live](https://rental-property.vercel.app)  
+- 🌍 **Live Project**: [BuildEstate Live](https://github.com/AAYUSH412/Real-Estate-Website)  
 - 💻 **GitHub Repository**: [Rental-Property](https://github.com/Abhisheksingh555/Rental-Property.git)
 
 ---
